@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Unai Fernández</h1>
 <h3 align="center">Soy un apasionado desarrollador web</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles [aquí](https://uferesc436.github.io/mi-portfolio/)
+- 👨‍💻 Todos mis proyectos están disponibles [aquí](https://uferesc436.github.io/mi-portfolio/).
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, etc**
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript, etc**.
 
-- 📫 Cómo ponerse en contacto conmigo **uferesc436@gmail.com**
+- 📫 Cómo ponerse en contacto conmigo **uferesc436@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
